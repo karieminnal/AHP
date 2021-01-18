@@ -1,0 +1,16 @@
+.table-prioritas {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 14px;
+}
+
+.table-prioritas th, .table-prioritas td {
+    text-align: center;
+    padding: 4px;
+    border: 1px solid lightgray;
+}
+
+.imgwrapper img {
+    width: 100%;
+    height: 100%;
+}
